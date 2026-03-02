@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "禁断の森",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-03-02T12:08:48.761490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "禁断の森",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/01_禁断の森_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "禁断の森",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_禁断の森_CLAN_QUEEN.txt"
+    }
+  ]
+}
